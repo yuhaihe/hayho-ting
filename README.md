@@ -35,3 +35,6 @@ hayho-ting /Users/yuhaihe/Desktop/hayho/tiny-png/image
 ## Conclusion
 
 `hayho-ting` is a simple and easy-to-use package that can help you compress images quickly and efficiently. Whether you're working on a small project or a large-scale application, `hayho-ting` can help you optimize your images and improve your website's performance.
+
+## screenshot
+![示例图片](./example.png)
