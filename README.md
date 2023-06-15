@@ -23,13 +23,13 @@ To use `hayho-ting`, you need to provide the file directory as a required parame
 Here is an example of how to use `hayho-ting`:
 
 ```
-ting /Users/yuhaihe/Desktop/hayho/tiny-png/image NQZz7VPvrjfGBPpPSnH6DMXQ690z30jQ
+hayho-ting /Users/yuhaihe/Desktop/hayho/tiny-png/image NQZz7VPvrjfGBPpPSnH6DMXQ690z30jQ
 ```
 
 In this example, `/Users/yuhaihe/Desktop/hayho/tiny-png/image` is the file directory, and `NQZz7VPvrjfGBPpPSnH6DMXQ690z30jQ` is the API key. If you don't want to provide an API key, you can simply omit it from the command:
 
 ```
-ting /Users/yuhaihe/Desktop/hayho/tiny-png/image
+hayho-ting /Users/yuhaihe/Desktop/hayho/tiny-png/image
 ```
 
 ## Conclusion
